@@ -5,7 +5,7 @@ Kindly, find the attached jupyter notebooks which I had practice during the prep
 
 I have used the reference of the objectives given in the above link  and prepare the jupyter notebooks for each section to understand the concept much better.
 
-There are quite number of jupyter notebooks . Not to get scared. I have tried to prepare from basic , simple examples to understand the concept. Kindly, let me know if any modification is required.
+There are quite number of jupyter notebooks . Not to get scared. I have tried to prepare from basic , simple examples to understand the concept. Kindly, let me know if any modification is required.Contact on Slack.
 
 In each jupyter notebook I have included the references of the syntax with other resources. 
 Following resources were quite helpful for me during the preparation:
